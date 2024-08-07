@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
+![WhatsApp Image 2024-08-07 at 23 47 13_dd304040](https://github.com/user-attachments/assets/a51b0da4-19c1-4024-a45f-0a1a7f7b855d)
+
+<h1 align="centre">Hi 👋, I'm Divyansh Singh</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh0910&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh0910" /> </p>
