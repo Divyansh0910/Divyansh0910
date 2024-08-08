@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/5d9815b7-771a-4038-a72c-70c1cda40df9)
 
 <h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
